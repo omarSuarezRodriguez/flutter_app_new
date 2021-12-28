@@ -12,8 +12,7 @@ To build and run this project:
 
 ## Java Samples
 
-#### Animated Chart
--------------------------------------------------
-|[Animated Chart](https://archive.org/download/jdk-8u111-nb-8_2)|
+
+|Animated Chart|
 |--|
 | <center> <img src="https://i.ibb.co/JFZNkqy/247.png" width="600"> </center> |
