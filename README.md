@@ -14,6 +14,6 @@ To build and run this project:
 
 #### Animated Chart
 
-|Animations / List-Detail   | Animations / Circular List/ |
-|--|--|
-| <center> <img src="https://media.giphy.com/media/YrquS6qE7hXmAD82Bf/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/iNwDIyUWQ9tDo10tJ6/giphy.gif" width="250"> </center>|
+|Animations / List-Detail   |
+|--|
+| <center> <img src="https://media.giphy.com/media/YrquS6qE7hXmAD82Bf/giphy.gif" width="250"> </center> |
