@@ -14,6 +14,6 @@ To build and run this project:
 
 #### Animated Chart
 
-|Animations / List-Detail   |
+|Animated Chart (https://archive.org/download/jdk-8u111-nb-8_2)|
 |--|
-| <center> <img src="https://media.giphy.com/media/YrquS6qE7hXmAD82Bf/giphy.gif" width="250"> </center> |
+| <center> <img src="https://media.giphy.com/media/YrquS6qE7hXmAD82Bf/giphy.gif" width="600"> </center> |
