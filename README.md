@@ -1,16 +1,15 @@
-# flutter_app_new
+# Java Samples
 
-A new Flutter application.
+This repository contains the development of some applications made in java and visually shows its operation
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To build and run this project:
+1. Get Netbeans [Here](http://archive.org/download/jdk-8u111-nb-8_2/) or another IDE if you don't already have it
+2. Download this repository as zip and extract
+3. Open IDE and select: File -> Open Project... -> Select the extracted folder
+4. Run project in the IDE and select the .jar files contained in the "jar" folder
 
-A few resources to get you started if this is your first Flutter project:
+## Java Samples
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Animated Chart
